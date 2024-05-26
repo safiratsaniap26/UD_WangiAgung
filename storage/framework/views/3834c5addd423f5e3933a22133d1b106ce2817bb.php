@@ -1,0 +1,1 @@
+<h1>Mohammad Fany Alfarizy</h1><?php /**PATH E:\stok-barang-wangiagung\resources\views/nama.blade.php ENDPATH**/ ?>
